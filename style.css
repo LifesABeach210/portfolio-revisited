@@ -14,7 +14,47 @@ vertical-align:text-top;
 background-color: black;
 
 
+}
+
+#box1{
+display: flex;
+justify-content: center;
+padding: 15px;
+margin: 15px;
+font-family: cursive;
+color: darkred;
+font-style: italic;
+vertical-align: text-top;
+font-size:larger;
+}
+
+#box4{
+margin: 10px;
+padding: 10px;
 
 
+}
+#box5{
+margin: 10px;
+padding: 10px;
+
+}
+#box6{
+margin: 10px;
+padding: 10px;
+
+}
+
+.class1{
+justify-content: center;
+
+
+}
+
+#github {
+display: flex;
+justify-content: center;
+align-content: center;
+align-items: center;
 
 }
