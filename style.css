@@ -1,19 +1,18 @@
 .box{
 padding: 15px;
 margin: 5px;
-display: flex;
-
-
-
-
+border-style: solid;
+border-color: darkcyan;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+color: orangered;
+justify-content: space-evenly;
+vertical-align:text-top;
 }
 
 #body{
-background-image: url(https://images.pexels.com/photos/561463/pexels-photo-561463.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-height: 100%;
+background-color: black;
+
 
 
 
